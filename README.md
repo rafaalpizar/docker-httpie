@@ -1,3 +1,5 @@
+Original repo: https://github.com/alpine-docker/multi-arch-docker-images/tree/master/httpie
+
 # httpie
 
 [If enjoy, please consider buying me a coffee.](https://www.buymeacoffee.com/ozbillwang)
