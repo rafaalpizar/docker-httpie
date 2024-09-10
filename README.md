@@ -2,13 +2,7 @@
 
 [If enjoy, please consider buying me a coffee.](https://www.buymeacoffee.com/ozbillwang)
 
-httpie running in docker alpine (python3+pip3+alpine+httpie)
-
-Auto-trigger docker build for [httpie](https://github.com/jakubroztocil/httpie) when new release is announced
-
-This container definition contains python module edgegrid-python.
-
-[![DockerHub Badge](http://dockeri.co/image/alpine/httpie)](https://hub.docker.com/r/alpine/httpie/)
+httpie running in docker alpine (python3+pip3+alpine+httpie+httpie-edgegrid)
 
 ### Github Original Repo
 
