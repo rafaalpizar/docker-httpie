@@ -1,6 +1,6 @@
 # docker-httpie with Akamai edgegrid
 
-[If enjoy, please consider buying me a coffee.](https://www.buymeacoffee.com/ozbillwang)
+[If enjoy, please consider buying original author a coffee.](https://www.buymeacoffee.com/ozbillwang)
 
 httpie running in docker alpine (python3+pip3+alpine+httpie+httpie-edgegrid)
 
