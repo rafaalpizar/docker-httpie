@@ -13,7 +13,10 @@ https://github.com/alpine-docker/multi-arch-docker-images/tree/master/httpie
 https://github.com/rafaalpizar/docker-httpie
 
 ### Docker Build
-To build, make sure you are in the folder where you have this Dockerfile and run the following command in the terminal:
+
+1. Download Dockerfile
+
+2. Build. Make sure you are in the folder where you have this Dockerfile and run the following command in the terminal:
 
 ```bash
 docker build -t httpie-edgegrid .
