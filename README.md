@@ -24,7 +24,7 @@ Always map your edgerc file:
 
 ```bash
 $ alias http='docker run -ti --rm -v ~/.edgerc:/root/.edgerc httpie-edgegrid'
-$ alias http='docker run -ti --rm -v ~/.edgerc:/root/.edgerc --entrypoint=https httpie-edgegrid'
+$ alias https='docker run -ti --rm -v ~/.edgerc:/root/.edgerc --entrypoint=https httpie-edgegrid'
 ```
 
 To use and persist a [`.netrc`](https://httpie.org/docs#netrc) file:
